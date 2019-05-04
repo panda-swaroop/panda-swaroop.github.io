@@ -4,12 +4,6 @@ layout: default
 
 <br>
 
-<!-- ## Hello! -->
-
-<!-- <img class="profile-picture" src="me.jpg"> -->
-
-<!-- I'm an [Information Science](http://infosci.cornell.edu/) PhD student at Cornell University working in natural language processing. My advisor is [David Mimno](https://mimno.infosci.cornell.edu/).
-
 ## Thinking of the Title
 
 
@@ -30,9 +24,17 @@ layout: default
 
 ## Across the domains,
 * Music
-** Music Genre Dataset,
-** Probabilitic Topic Model,
+** Music Genre Dataset
+** Probabilitic Topic Model
 ** Music Exploration
+* Journalism
+** Election Dataset
+** Basic Statistical Model
+** Election Result Analysis
+* Business Analytics
+** Comapany Sales Data
+** Basic Statistical Model
+** Yearly/Quarterly Analysis
 
 <br>
 
