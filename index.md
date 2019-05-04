@@ -2,44 +2,65 @@
 layout: default
 ---
 
-## About Me
+<br>
 
-<img class="profile-picture" src="sherlock.jpg">
+<!-- ## Hello! -->
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+<!-- <img class="profile-picture" src="me.jpg"> -->
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<!-- I'm an [Information Science](http://infosci.cornell.edu/) PhD student at Cornell University working in natural language processing. My advisor is [David Mimno](https://mimno.infosci.cornell.edu/).
 
-## Research Interest
+I have a master's degree in computational linguistics from the University of Washington, where I was advised by [Fei Xia](http://faculty.washington.edu/fxia/), and I've worked at organizations like [Microsoft](https://www.microsoft.com/en-us/research/project/empowermd/), [Pacific Northwest National Laboratory](https://www.pnl.gov/) (PNNL), and [Maana](https://www.maana.io/), a data analytics startup. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+<!-- ## Research Interests
 
-## Publications
+My research is in natural language processing and machine learning. I'm interested in unsupervised and semi-supervised techniques, such as word embeddings and topic modeling. I study how these techniques can be used to explore new datasets, ranging from social media to literature to medical data. I'm especially interested in questions about narrative and semantic similarity.
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+<br> -->
 
-## Typography
+## Present
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+<img class="profile-picture" src="me.jpg">
 
-Here is a table
+* PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
+* Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
+* Minor in [Computer Science](https://www.cs.cornell.edu/)
+<!-- * Interests: NLP, ML, unsupervised methods, digital humanities, computational social science -->
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+<br>
 
-Here is a horizontal rule
+## Past
 
----
+* Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)
+* Data Scientist, [Maana](https://www.maana.io/)
+* Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
+* MS in [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
+* BA in [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
 
-Here is a blockquote
+<br>
 
-> To a great mind, nothing is little
+## Research Interests
 
-## References
+Natural language processing, unsupervised machine learning, digital humanities, computational social science.
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+<br>
+
+## News
+
+Summer 2019: Interning at Facebook Core Data Science  
+
+June 2019: Attending the NAACL 2019 [Workshop on Narrative Understanding](https://sites.google.com/view/narrativeunderstanding/)
+
+September 2018: Attending the doctoral consortium at [Text as Data](https://nlp.washington.edu/tada2018)  
+
+June 2018: Attending NAACL 2018 to present our [TACL paper](https://transacl.org/ojs/index.php/tacl/article/view/1202)  
+
+<br>
+
+## Teaching
+
+Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/info3300/)  
+  
+Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
+
+<br><br>
