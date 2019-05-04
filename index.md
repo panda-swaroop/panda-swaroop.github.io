@@ -10,38 +10,29 @@ layout: default
 
 <!-- I'm an [Information Science](http://infosci.cornell.edu/) PhD student at Cornell University working in natural language processing. My advisor is [David Mimno](https://mimno.infosci.cornell.edu/).
 
-I have a master's degree in computational linguistics from the University of Washington, where I was advised by [Fei Xia](http://faculty.washington.edu/fxia/), and I've worked at organizations like [Microsoft](https://www.microsoft.com/en-us/research/project/empowermd/), [Pacific Northwest National Laboratory](https://www.pnl.gov/) (PNNL), and [Maana](https://www.maana.io/), a data analytics startup. -->
+## Thinking of the Title
 
-<!-- ## Research Interests
 
-My research is in natural language processing and machine learning. I'm interested in unsupervised and semi-supervised techniques, such as word embeddings and topic modeling. I study how these techniques can be used to explore new datasets, ranging from social media to literature to medical data. I'm especially interested in questions about narrative and semantic similarity.
 
-<br> -->
-
-## Present
-
-<img class="profile-picture" src="me.jpg">
-
-* PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
-* Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
-* Minor in [Computer Science](https://www.cs.cornell.edu/)
+* Why Computational? The visualization is strictly based upon a statistical algorithm as opposed to a creative visualization.
+* Why Essays? The underlying algorithms are theorized with design sensibilities as opposed to brute-force and indifferent computing.
 <!-- * Interests: NLP, ML, unsupervised methods, digital humanities, computational social science -->
 
 <br>
 
-## Past
+## All Visualizations across the domains,
 
-* Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)
-* Data Scientist, [Maana](https://www.maana.io/)
-* Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
-* MS in [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
-* BA in [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
+* Have an associated Dataset,
+* Have an underlying Algorithm,
+* Serve a specific purpose
 
 <br>
 
-## Research Interests
-
-Natural language processing, unsupervised machine learning, digital humanities, computational social science.
+## Across the domains,
+* Music
+** Music Genre Dataset,
+** Probabilitic Topic Model,
+** Music Exploration
 
 <br>
 
