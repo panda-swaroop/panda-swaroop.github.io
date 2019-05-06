@@ -45,8 +45,6 @@ There are several different tools that can be used for visualization. This thesi
 * Business Analytics ** Tableau ** Applicable because it follows common standards. Requires rudimentary coding skills.
 * Journalism ** ggplot ** Applicable because open source. Requires rudimentary coding skills.
 
- 
-<img src="Image2.png">
 
 <br>
 
