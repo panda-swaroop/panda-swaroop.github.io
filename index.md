@@ -38,6 +38,18 @@ layout: default
 
 <br>
 
+## The tools used for visualization,
+There are several different tools that can be used for visualization. This thesis does not build a new tool, but chooses existing tools for build visualizations in the respective domains.
+
+* Music ** D3 library ** Applicable beacuse the visualization is required for streaming services. Requires good coding skills.
+* Business Analytics ** Tableau ** Applicable because it follows common standards. Requires rudimentary coding skills.
+* Journalism ** ggplot ** Applicable because open source. Requires rudimentary coding skills.
+
+ 
+<img src="Image2.png">
+
+<br>
+
 ## With Music,
 
  
