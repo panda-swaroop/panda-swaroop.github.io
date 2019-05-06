@@ -32,7 +32,7 @@ layout: default
 ** Basic Statistical Model
 ** Election Result Analysis
 * Business Analytics
-** Comapany Sales Data
+** Company Sales Data
 ** Basic Statistical Model
 ** Yearly/Quarterly Analysis
 
