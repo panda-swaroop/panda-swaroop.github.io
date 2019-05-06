@@ -53,4 +53,6 @@ There are several different tools that can be used for visualization. This thesi
  
 <img src="Image2.png">
 
+* Visualization for Data Exploration: Embellishments of the genre-proportion displays
+* Flow Visualization for Progressive Music Genres
 <br><br>
