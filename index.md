@@ -38,6 +38,13 @@ layout: default
 
 <br>
 
+## For every domain,
+* Three possible visualizations
+* Customized User tests across the three visualizations
+* A single visualization chosen from the test analysis.
+
+<br>
+
 ## The tools used for visualization,
 There are several different tools that can be used for visualization. This thesis does not build a new tool, but chooses existing tools for build visualizations in the respective domains.
 
