@@ -58,8 +58,14 @@ There are several different tools that can be used for visualization. This thesi
 ## With Music,
 
  
-<img src="Image2.png">
+<!--<img src="Image2.png">-->
 
 * Visualization for Data Exploration: Embellishments of the genre-proportion displays
-* Flow Visualization for Progressive Music Genres
+* Streaming Visualization for Progressive Music Genres
+<br>
+
+## India-HCI submissions,
+
+* Paper/Note on Human Intelligence in Machine Intelligence and/or Philosophical inquiry in the emerging field of HCI-AI
+
 <br><br>
